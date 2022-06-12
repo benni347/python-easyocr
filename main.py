@@ -8,7 +8,6 @@ Later on I will use this to write an application to give myself help what word t
 import easyocr
 import cv2
 from matplotlib import pyplot as plt
-import numpy as np
 
 
 class Main:
