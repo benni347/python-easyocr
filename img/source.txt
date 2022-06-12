@@ -1,1 +1,2 @@
 hello_img = https://unsplash.com/photos/PVr9Gsj93Pc
+warning_sign = http://cdn2.bigcommerce.com/server2800/43kdfvkt/products/608/images/1659/WARNING_SIGN_OUT_OF_SERVICE__61516.1362074638.1280.1280.jpg?c=2
